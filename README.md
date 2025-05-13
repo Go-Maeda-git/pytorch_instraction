@@ -1,0 +1,2 @@
+# pytorch_instraction
+Pytirchの概略、機械学習の評価方法などを勉強するためのプログラム
